@@ -1,0 +1,10 @@
+name = "com3610-ml"
+version = "0.1.0"
+defaultTargets = ["com3610-ml"]
+
+[[lean_lib]]
+name = "Com3610Ml"
+
+[[lean_exe]]
+name = "com3610-ml"
+root = "Main"
